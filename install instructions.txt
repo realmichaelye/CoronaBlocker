@@ -1,0 +1,6 @@
+1. Go to chrome://extensions/
+2. Turn on Developer Mode (top right switch)
+3. Click Load unpacked
+4. Click into the extension folder
+5. Click "select folder"
+6. Done! Now turn the extension on & enjoy corona-free browsing!
