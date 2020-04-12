@@ -1,7 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Coronavirus Blocker -Adblock, but for COVID19",
-    "version": "0.1.0",
+    "name": "Coronavirus Blocker - Adblock, but for Corona",
+    "version": "0.1.1",
+    "description": "Enjoy corona-free browsing on all sites.",
+	"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
